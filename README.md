@@ -4,12 +4,12 @@
 The goal of this project is to develop a mobile app helping the management of indoor plants, with key features, such as watering reminders or diseases detection.
 
 Four notebooks are associated to the development automation part of the app:
-* A notebook to analyse the data for classification,
-* A notebook to analyse the data for detection,
-* A notebook to train and evaluate our image classification model,
-* A notebook to train and evaluate our object detection model.
+* A notebook to analyse the data for classification (Analysis_Classif.ipynb),
+* A notebook to analyse the data for detection (Analysis_Detect.ipynb),
+* A notebook to train and evaluate our image classification model (Classification.ipynb),
+* A notebook to train and evaluate our object detection model (Detection.ipynb).
 
-The notebooks will be updated progressively on this github repository.
+The notebooks will be uploaded and updated progressively on this github repository.
 
 ## Working Environment
 To achieve this project, we chose to use AWS. We used AWS s3 to store our raw data and AWS SageMaker to:
